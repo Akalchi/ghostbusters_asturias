@@ -14,6 +14,7 @@
 ## Prerequisites
 To run this project, you need to have the following installed:
 - **Java 8 or later**
+- **Maven 8 **
 - **Git for cloning the repository**
 - An **IDE** such as IntelliJ IDEA, Eclipse, or VS Code with Java support
 
@@ -29,12 +30,14 @@ To run this project, you need to have the following installed:
 ![Google](https://img.shields.io/badge/-Google-4285F4?logo=google&logoColor=white&style=flat)
 
  ### Documentation:
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![Lucidchart](https://img.shields.io/badge/-Lucidchart-5B5D5D?logo=lucidchart&logoColor=white&style=flat)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat) 
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=data:image/png;base64,<base64-encoded-image>&logoColor=white&style=flat)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)](https://www.figma.com/design/veBM9Qlo7Bwnze7VxLvW2j/GhostBuster?node-id=0-1&p=f&t=yLrCSi8T2gbYkAfa-0)
+![Figma ghostBusters](https://github.com/user-attachments/assets/7e5c071c-72d3-41de-88e9-e25c4415e2ff)
+
+[![Lucidchart](https://img.shields.io/badge/-Lucidchart-5B5D5D?logo=lucidchart&logoColor=white&style=flat)](https://lucid.app/lucidchart/82a3e179-37d1-4db9-9bbd-f5aca7509ad7/edit?existing=1&docId=82a3e179-37d1-4db9-9bbd-f5aca7509ad7&shared=true&invitationId=inv_b7859388-e234-49b6-9cf2-80ed76e984fd&page=HWEp-vi-RSFO#)
+![Diagram ghostBusters](https://github.com/user-attachments/assets/e88494bf-646e-41bd-8a0d-407ddc80a25e)
+
+[![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat)](https://trello.com/b/iOSbR5XM/spookysquad)
+![Trello ghostBusters](https://github.com/user-attachments/assets/9d749156-80a6-4fa0-b9be-0c1dfe06f4ec)
 
  ### Comunication
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
@@ -72,7 +75,7 @@ java
 If you prefer to run it in an IDE, simply open the `IMCCalculator.java` file and run the `main` function.
 
 ## How to Use the Program
-The program uses an instance of the `` class, which takes weight and height as constructor parameters. It then prints the BMI and its corresponding classification.
+
 
 ## License
 This project is open-source, and you are free to use, modify, and distribute it.
