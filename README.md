@@ -14,7 +14,7 @@
 ## Prerequisites
 To run this project, you need to have the following installed:
 - **Java 8 or later**
-- **Git for cloning the repository)**
+- **Git for cloning the repository**
 - An **IDE** such as IntelliJ IDEA, Eclipse, or VS Code with Java support
 
 ## &nbsp;Tech Stack
